@@ -1,0 +1,16 @@
+{
+  "name": "PTHospital.chrome",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hustcc/PTHospital.chrome"
+  },
+  "license": "MIT",
+  "main": "PTHospitalList.js",
+  "scripts": {
+    "test": "sh test.sh"
+  },
+  "dependencies": {
+    "jshint": "*"
+  }
+}
