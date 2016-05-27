@@ -1,0 +1,5 @@
+#content_left>div:not(.c-container)  {
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 0;
+}

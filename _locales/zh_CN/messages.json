@@ -1,0 +1,23 @@
+{
+   "extDesp": {
+      "message": "过滤百度推广广告，提醒莆田医院。"
+   },
+   "extName": {
+      "message": "上网助手"
+   },
+   "tipText": {
+      "message": "属于莆田系医疗机构，就医请谨慎！"
+   },
+   "HosName": {
+      "message": "医院名称："
+   },
+   "HosPhone": {
+      "message": "医院电话："
+   },
+   "HosInfoTitle": {
+      "message": "莆田系医院网站提醒，请谨慎就医！"
+   },
+   "fillHosInfo": {
+      "message": "补充医院信息："
+   }
+}
