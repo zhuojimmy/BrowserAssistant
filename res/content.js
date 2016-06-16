@@ -87,8 +87,10 @@ function addMask(divid, name, phone) {
                   "line-height:50px!important;";
     cssTextDict = cssText2Dict(cssText);
     alert_div.style.cssText = cssText;
+    alert(showTipText);
     // 插入到body最后
     document.body.appendChild(alert_div);
+      
     return alert_div;
 }
 
@@ -104,7 +106,7 @@ function getMaskContainer(name, phone) {
         alert_div = addMask(divid, name, phone);
     }
     // 循环检查防止屏蔽
-    frame_func(function() {getMaskContainer(name, phone);});
+    //frame_func(function() {getMaskContainer(name, phone);});
 }
 
 function getDesc() {
