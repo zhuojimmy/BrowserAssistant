@@ -34,6 +34,18 @@
 		{
 	        "matches": ["*://www.baidu.com/*"],
 	        "css": ["res/killad.css"]
+   		},
+		{
+	        "matches": ["*://www.so.com/*"],
+	        "css": ["res/kill360ad.css"]
+   		},
+		{
+	        "matches": ["*://www.sogou.com/*"],
+	        "css": ["res/killsougouad.css"]
+   		},
+		{
+	        "matches": ["*://cn.bing.com/*"],
+	        "css": ["res/killbingad.css"]
    		}
 	],
 	"icons": {

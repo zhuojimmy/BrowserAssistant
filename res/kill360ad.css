@@ -1,4 +1,4 @@
-#content_left>div:not(.c-container)
+#main>div:not(#m-result)
 {
     height: 0;
     overflow: hidden;

@@ -1,0 +1,13 @@
+.sponsored
+{
+    display:none;
+    visibility:hidden;
+}
+div[class$="sponsor"]
+{
+	display:none;
+}
+.rvr-model
+{
+	background-color:#00ff00;
+}
